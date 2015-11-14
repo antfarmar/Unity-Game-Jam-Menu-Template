@@ -5,7 +5,7 @@
 
 #### Source
 * Unity Asset Store: https://www.assetstore.unity3d.com/en/#!/content/40465
-* Live training Tutorial: http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/game-jam-template?playlist=17111
+* Live training Tutorial: [Video](http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/game-jam-template?playlist=17111)
 
 # README
 Game Jam Template 
